@@ -1,0 +1,442 @@
+
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/5STJmQJd1bMQuPknD6f4biWJZLukmuP9QyenYNg8cUtVzCz6PZeFt5w3nnViZNQ7RLfHGVrgnBqrPtkCcQDCwEiJ
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/2vBcBgZu8pm3wuR6cN1w9cuoWuFERxJJEac7WcFUE3YDyQYwJ4igUSHMf6HfCtMLPufARUWQ2Z9mZNHZk9PptsXC
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/3cxYMWLr2occSogvqpp2iDSC2xwLdNJvJaCajjv35jeFggJCW7kjk5JtjJKFtLH5Fhtf8zk2ihEe51K1N8n9uXNH
+Closed and gathered SOL from bundler wallets 3 : https://solscan.io/tx/c9JvBcT5d3PFS9KQU8yHPPsen6oJChGt7mnAFno3VS2YCL6MnM1T6KDF9WEn1M3hFdRD2Yc8yWbGR8U3UBDzeUH
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+Closed and gathered SOL from bundler wallets 3 : https://solscan.io/tx/56hdnhUMSDAAExBhrFkWp11FR1wJsgC3LUcrK7PV1S4BpCgBTEq5chwLi7MdF5MsnF7bhgs3vmufXXvuA4DBWXuT
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/3k3LAzFzgvb8LW9HQAGDqPqjDCcdQzWjK4dxKS6istcpmgBLMRiwij5YR4vbDw9QZEKGyidqQDiUDqMJnAwzUzHQ
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/3bHPKh8YuCwUmtWdhGYuiEBBakJUwiYeZS5D9hrWn7pwMnmp1tiMmHkkVZmXJokDaEugyuyzVc7Mo7ZLbtgGyhRn
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/5fKFfN2oD7mMiXjMJaQvEbQVxuS7q8DJ3NAPg3PXEU4zwVTYmZwCpGn7mpUT27NZ64pUhMxWWRZ2kyyJLhh35jXJ
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/4HZy4D2osAwM9Je9s3U9WaruZr28VLQ8adh8t33AbowubRW2HPewdyJty6qExKgcTWSdZELQ1Mj4jRGmLJwewFfs
+Closed and gathered SOL from bundler wallets 5 : https://solscan.io/tx/3NUqkdeMQUXmyfNi962VC16bEzPFXK8Ls8WaqyHJgCkJBfnnufuDGKh1UqowVNrg1sTbSVMGfH2KdB1VMHxmG5zF
+Closed and gathered SOL from bundler wallets 8 : https://solscan.io/tx/2j9xvofXDeUsfkinGwNzshDB14daNKMKMcfN87gvDHVdkJdzAmNmcX6nqfKEFvRH74GMD134YZWiCB2xoGYVT8PT
+Closed and gathered SOL from bundler wallets 6 : https://solscan.io/tx/4y6KJfxJUfKH7iKrKLVRrR8Q764zj38CmXnZmFU7JRgqzWbojDRAJNLbDPQcm9aVq4j66X246ZKxwGUnPQ8wUFrz
+Closed and gathered SOL from bundler wallets 9 : https://solscan.io/tx/8YVJeBKVeCueEWqTYM2XApENdbw8vMZhDM65J8WXmxGRevn5CNVtf7ywrZd691tpFoQmSVgRT6dy6qoSYcCT7Fj
+Closed and gathered SOL from bundler wallets 7 : https://solscan.io/tx/5wHBMdddCWSsf1rrjAV2Sm2iec7vRkHwmGTrnqucJNLSbVJFdYZW5vBJTWExWD2iqWeSGbfVEwc1CBcjc5y3Yran
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+Closed and gathered SOL from bundler wallets 6 : https://solscan.io/tx/G6zeJt3MxVZdxboThXbY2TKETZBXLKqgNdPWJtjtRZjjHDCqP5DaY46Da7EzEMJAJmFRg8bVLLgfRQjJPW8gyoL
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/4nMMo722D5kRDa1DuUGj4cdwvGB3pU3cyEZVR5nsJoS6FjjoZF8pvecDNdva64WtYfnConVwrmXDqv52bGsm7U3U
+Closed and gathered SOL from bundler wallets 3 : https://solscan.io/tx/3ZhmcZqgNNt8kDJuCXEnT16GRzbhJfkyhMJgG7ZawjGtJb2qevvokSqVHjsa9p2pSQapAS1wjxQ2SGexV9hot7iM
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/5JgXnirULDqiJ3T8Bage2embrSPYCDmwVSy5DNhz5hc2JXXN1KkWemQXd8YQeesDesJUpZ9BjZF8StJ9TgBLXJHk
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/24mGrAvBtSeGJ4UgVVPSU9XCxTXpqZaHWbmuPVR4grvgPw5r2iLemMVEKKot3Rma6AUH6D5u2kyguHiqir7StQWz
+Closed and gathered SOL from bundler wallets 8 : https://solscan.io/tx/5YjPCRbbLPUX9mqaR4bGFozXbNcVtd6xzsNzj6qC6LMd1TMvjtviqC1k78zgPdqRoT7Jj2pWG7JfSAHYGysw7ASH
+Closed and gathered SOL from bundler wallets 5 : https://solscan.io/tx/ytxqe9JUaaAHrCVgX9Jy9s1qtg26QBvXBa5fpouAVQ6ZmmEXqN4TfLtAG7dthTuD8dBTJk75oEmnb9k3qDDHFi7
+Closed and gathered SOL from bundler wallets 7 : https://solscan.io/tx/2bnJAYCUFX5rP6qin6342KjCgKRVNv86A5c1qa41fCAp2N4JmxuQ6zhSox5qiQqpAtiNJ9ZSXhcykjPaLSbuVq8J
+Closed and gathered SOL from bundler wallets 9 : https://solscan.io/tx/2yMJtDxjfuwDopNpeb7BMt4fseheq3pWgQYdBPrXC9LWeniqxgTcDbx7ct1pLaZq4onm6NFdWcLUakzxamFnnRof
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/wtST7kjQTJz3qwaGwF8eUryihRDvZ9kGN9pdLoZ16ySg44dwYuHQ1PS2gxcj6QoF9RRdyYfznWYxkcjEfFSipSE
+Gathering sol from bundler wallet completed!
+https://solscan.io/tx/33Pkzxn16XwSvmyrE4WZxsUNK6d2anjuN4YjrZEtuDoypNCWuiE5Mnyvs1dQ3Vz9TadNtvDVNbAYKxAeRMzVPxBs
+Success in distribution
+Lookup Table Address created successfully!
+Lookup Table Address:Fn1miqPVyNCrTRUp3xygtBuUPpDjRAjL6J6iM1WBfVSe
+Successfully added wallet addresses.
+Successfully added base ata addresses.
+Successfully added Extending address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/Fn1miqPVyNCrTRUp3xygtBuUPpDjRAjL6J6iM1WBfVSe/entries
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.0424432 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/5vu8AS4Y1zjGNkS4s9mvHnFfpn3wKxdXjkiD6Q4dF2uU
+Create token and Buy jito signature: https://explorer.jito.wtf/bundle/5XpsiVfYLPc5AqTVByX5XQpY8JMo43LRu5HfCrij8yXAMM9H9F3S31Hq5sNYZDh5663sjLmu5BsmM1FSuRLLhYZU
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.020346748 Sol in Dev Wallet
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/Xpfx88yeiNxE1jYF5ceYppMZooSDd2CUrHcRYrQ8L9chE1DDrkhRNg8XB8pS9HCEDn3gqJ9Y6Z59QDrU4ZaHvWr
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/4G5LaVEKPzUGWLHYfm1xnUMqvg4xuc5852SA27cfjqM3Kc1xwaZRUTNazX7guWYFmmrNebroKjxpbH3XZjR4QLY8
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/21dfjurirxUBJayJXXwMzZsbYwiehpAGs7ZDBsYYYKPiC7Lm296LNSy4tkCWzE11uMcJnRdKaQUi6e3CJpvQEuuU
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/5ECQkxgfENyJnp1CxfDwQxf4TAcZ2eaLSJ5qSGGbY4dw2tDZrN78jtjJQ97rH28BfLpNuJkdM5cLKebgyqeD4on1
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/QFrqv8EZb8DMUnEqRm7B3JzDxUqJVFoszDjGscGqEyALqRCS6mpE86oJLtmXRLNdv7UCasXPzg3GAedZ37cEk7j
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/h3MUr8qJU8EUV9GWiqvwBPM32NX3Ny9rJwCVzKDWNEqUZQ1uA6wXSw1xS1VPCmaCVj9CrkWv7GnACJ5swAmSRSp
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/5885da4io9NH37DUYjQxETLzGsVavsjHBKoQL828MvK48fH47dh3QYa3EBMP4PJ2h8huXxrita2RyMpCGH9RovFu
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/2qMzhApRMpKiA5bAnU2F33iCHGj6XSrgPSJziqf5G1vgCAg3jLo9Y8FdLNu8LBmg6KvERPcHZNqc4wHrtjSzpiCx
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/vX5uTX94yFZz5zr1mHf5brFkfRkumrAMnS6XyLxkQF96tiAKLSALiFeeZr6Wr7SEbNRnpHefZF8p3h34BrXcwGK
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/5k3W85SPXT54mgBNjjyUo6XmW7auRaQERLZhDz39RAyzoDUP5BpTF958HqfQFo3Z7htfDbVYm7AzKjYbsNyM7V3y
+Sell jito signature: https://explorer.jito.wtf/bundle/63cCQH3UcWBvWNpK1e5oN4Hbp2xLaRCfpP3aauYxPgwfZwbr4Rsfkgi8XCXMyU2R6Mt3ZNFhQkN67eBR1HjJxVF7
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.020241748 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/5vu8AS4Y1zjGNkS4s9mvHnFfpn3wKxdXjkiD6Q4dF2uU
+Create token and Buy jito signature: https://explorer.jito.wtf/bundle/mc6w5vTbc7bfPyarrj6gUHvsTW7uuYWU23MiA5jo2c2fyfVbs5XNwJrMMKbq2YD9wdyLkewi8w3QYNzYwfaCVCJ
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/2UajDtbfh3Ct8RW342rdu8dBJaRWXMrFo4915jLojAGwZwfuA7umPxgW3tsfDWGKo2sghAq1cAQyCw23pgc5GqCC
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/2yocbGNq54WbmdTH7Jm2uLc29eXEYCbtCYzP5H3QKDiutwDBPSBYx2osRr4JUmqxwsakiB3917A3sS3juNMdgmbG
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/3e45Lz6cZa8EE7CLydRrVvpBebPabSr1HayqhfbypfMrXMZ16x3GujcdQ8ChTtQwJgS2yDYape22GFXLBTeWMu5y
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/58WV9YfrhXnp1zrftfPdmhfGgFGtZCp7uAVqphAn7s8YopdXwrmLR5jkFkNQNAHKY2BeBD1em3PVACTS46RgtYaG
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/5kaJVfo8td5gyziituzpEemopQ5mcxvoBtGP7faaS5ivyWwSaXQk59FXZu2g2DzBQcmnTidbtxmdUrxrLnMeTgU
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/5MpXUkhk1PFWEXL7u7FbM9vCmhFVc872hBDEaLFFRLiuKi8Lgp8TByiXAdZGDZoY4sVLz6eo7Mg2R4y9neBks9iP
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/4cReX549JH3TCaWn6jv2oxzeiNi259D18c1YQyYQqnjxampSNQVMjuEKwirRhbEVfVkKpzfRkUijnRkzz1eiKxUv
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/TrwegSG1e5VfhqjJ6T8TWayHyzxnPL88zNUoor6B6jtocDd6UDbYiM2ytghCT5ULucsACZTEUzvuGm5Ynkm8QUs
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/5uh1fLWvFByQCAKYrWoYwPqUqZVZ1bdFTpt6xSPa4iquRk7WfqjJ3j4GfibvKVQST58RFuf9nF4RpfcmcU7uXtbq
+Buy and Distribute jito signature: https://explorer.jito.wtf/bundle/5T3zpZMsLWWi1GifJkecBy1FRcZDQd1gteRJGrMQascASibKtnQRyLXgA1ZQT8yKGUcyKHZJpsMJrWN9RzKXyQ42
+Sell jito signature: https://explorer.jito.wtf/bundle/3d1iBZQsazhWbvpdhimPqgPS6baQxaFFLeddu6EuLsRPnKXeSNK6qYUZJj1a1LKVtKX1CjyNDdhVFJdtHY1ub6Te
+Wallet address & balance : Eo4SAnFn93zCz5EPvkA4PgaUnLf6W1oZezANHwG9q2qh, 0
+Wallet address & balance : 6y4KMqd5pPDDjhfbPWi9Am2rgNEd1EPHftzYin9WXzPa, 0
+Wallet address & balance : 7o6Eez5TskJjCe14dtRGPoCGdpnxK4bRAZJDMW9QNbBd, 0
+Wallet address & balance : 9Mwnce9K2nt4bP61jQ5HNab4Re2EXXVtnrfmmaqtukJ6, 0
+Wallet address & balance : C7febcDoQY9xnkyStAuBU7PKvjFp7a9E8e6Sge1QDaGN, 0
+Wallet address & balance : w4F3VAmQyR3cabPfo9HJMpbZubn482JPZEZcKpdGa2r, 0
+Wallet address & balance : 6WgGxgVKRaxGjTjH94DoCJvr2y4q92nEvLiPBqjM5QYn, 0
+Wallet address & balance : 7LKosf7tsaFYojJJvf3hUv5CL6amoFzyafRdeZR7CP62, 0
+Wallet address & balance : GFq58burGwwJzVi37yC2xF7WQZH8LCC1gvzT3mU5dwom, 0
+Wallet address & balance : 5f9DhB8SrddB31exgk6dQddMGTFzJiWai9bof3FHXZ2J, 0
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/4jvKbJWy7xbJZ7EPcUmKwhUDv34WUS25jKVGSzG7W4NvHZqpCm2JGKqZP6bdcVYZZBfWz1MSzLVDHvrbWgLHxQ1F
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/3x7NcWPc3Ax8kqSSGrai5n1JdmUVcY5wXjWvuJMBcwa9oUwnm6iiRa7yApRG64LyDcGQsBnLA658oRQcFYv6sbFQ
+Closed and gathered SOL from bundler wallets 3 : https://solscan.io/tx/2sZBrzRRCsTtmmP1Uop4gAcD6dTB2xXeEzsCpwH6Fi1smDGMu95f4LT7qUcExZdvdqFm6M76RCZnYprfTJ685F3o
+Closed and gathered SOL from bundler wallets 7 : https://solscan.io/tx/4du1VLLsXF1GNc2hDJrC5FNZ8BiJDKEerWcfC68xQWttFt3XmZbaWpXt7rrccuz3g7TtwMGZdDqfRZjNr4Xv2jtL
+Closed and gathered SOL from bundler wallets 5 : https://solscan.io/tx/4aysK54M5e2i7aVrM32sffGVcJb9bRG79kiRbVgkh3Unaw6pnMctkDRhjYmZ13gGx9SQYJhBzbXeyC7rW63QnXni
+Closed and gathered SOL from bundler wallets 6 : https://solscan.io/tx/tygAsMNedxDsAW8zzX92JtGXUNGr6KM9VQFuPCAQCjugr6xj8MNXr5sx6Gk5UUz1MDRP4bn5SXAkc75mBCGQ4WY
+Closed and gathered SOL from bundler wallets 8 : https://solscan.io/tx/7tALbJwdGDaQEXea66swYtcz8gneyN5ADn7HgayFkrfrqthiaBgCQwU7LGxKrFTfW1PGHdQKy1fMFRYHpBnJRF2
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/5cNkqbsWBj9TUeogqQaK9wAXMAUzbTYdQLLmQ1ZxAoS2RUJjTMFfD9ASmExMRMdmmzN69ZcguuGmttV7TKoPwASA
+Closed and gathered SOL from bundler wallets 9 : https://solscan.io/tx/4JXaapg4hjUrqfb1v3D67BUC6pFmvgjFiB2ygG911Knf8NYzzwtLWi85gcfbY8NGiVFwgqNnXEfePZDD3H8f7AmQ
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/54JrP2cW7ineNv1BV1BvJHuCWcWMscnyuKYA1Rr2GK82wm31ECYUS3dRg6UXfHZWMsy5FFKKdpTN6Sf5DsWAef8X
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+https://solscan.io/tx/56fw9yCZ6ndnWxUV7qEHKSAG1aBhpPiu2iGoXPAGiQ2WshVLptCjQ63tepjCpc18LMpkqX3zSzqcSjnPetg7xCgA
+Success in distribution
+Lookup Table Address created successfully!
+Lookup Table Address:2y1eeubvXi98F18pT2Ng8Poz3UoZ2NTXh1guCrCQ3ogP
+Successfully added wallet addresses.
+Successfully added base ata addresses.
+Successfully added Extending address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/2y1eeubvXi98F18pT2Ng8Poz3UoZ2NTXh1guCrCQ3ogP/entries
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.116715178 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/9sjJ4G5itvnEUoB3RBaT7EC51rW2NDRKgzbeJ6rnMTMF
+Create token and Buy signature: https://solscan.io/tx/8wYjBqpbo8bSs16x91FmunAjdvhQV8kr8RwBAe3oBsT3q8uR3xp1RbznJvkD6g3Cwt6BM5ctFuPrSztdufY4DpYCWcFosPQXCbuZwKGcQ9QtAT4fP7Ku2Se2R6saRZN5ij9X2sNrHSy7f7vxFr4Mmfw2rAyZj86UaYLhVV4DKb3wFXunvbtkhsdqysfqKimdm9a54kEeMu2P5ZCgKacwQiehU8m7H6miKvEsCzT9tirvSJSird9Zn4qFJYQzPEWNvB6EKUoYE53QLZEK2aK6A4posJ97x4YoU9LNEaxkXUAc4ay2Q2fZ6pZZxAnKatZwizbMiM9qSx7hM3iDgjyRYiwewopoT2nQ8GyZ1vNWpW6qMsGY88D6kMcRWupFhnAX6oWa6uthWbkpe7ojDbsnShtiYWVQecXkuuGAGZ51hruCo32qaPfnVFHamsK34QSKYGwV8tJ6Yjx82ZgiBjcMRsav6e98omH2kEmn5LVG6u2R2LjBdVM27rLA6B1mBnpkShVHA4FhFo4qcct2HoLfPQbd3uPZFSonMXcRrERiCcjmEUZHPJJNcaEiFhmyCX14xyPFf5bhDgHogccwW7iHycJ1sRMdcfKmNW7F7SgFDF2ZeYdz2nfUCRt5xVj25wB9meabM2UHpsMKWMnviaCLHJFiiwTTMz288vmE8PoZQKuiwxw7GBKyB4LAbhw5LqSSqnALRo7nVpHkJYLhuLW1y8MZLpBRxTg38eWungyLuyT8oGC9TuG87m1keHjt2kHMyxsxYEki1wDg8UTsvaj9VjAxRsSN7ncVFxfVGuk6z1XUJSJd9858tPqwBv2FJ6ovh6QLFQn3QGU1m4ZyohLCC6yHPerqAWqe26rqULrZfMBSkhxXrTz8ibRy9suTMTRmC2oFtdJnMAdKyUmF2kumRWmNU1n9QTY9vkD3KEx57tU6aA6LvpEqR1epwjKMgyYaUXjeuQehQSzidw47kHewdDu5m2FHbUJ6soKtueUcRsbD1bYYEttsKYzh5MHqizHpcgVLYDZeypWQs3TuWPdvpuW5rkzqpNj63pBbVXY7P9Euk2GPj9bZmvbMSfEstWpXbyjidwrLrJUJ2PghWiFFKwX77E62yMQkvUNKZxPjydR12hsU1zLrLKLbykYyWgdfQfERyTtpY8UywvDG5GMwj5BwqZ3eoHkWQgBhgKAitE9WE6tQRFK3JLB4h1EX
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.094618727 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/9sjJ4G5itvnEUoB3RBaT7EC51rW2NDRKgzbeJ6rnMTMF
+Create token and Buy signature: https://solscan.io/tx/AzbzQouuRnkgXhD5GDkM8xDPMSb3UdvfCQWpZNTV2H7LaAQCGzBLWWCFauaCaQ3yiMuxekBvsu6SCJmZMmnC2nupDdZtvB2kRyrSkJywnusDT4udXm2SdFSU9kdSMybkJrQVMM975PTi18sregXh6M7GdA4gxs861jnATk3KBiapqvJRD3oLU1BGUqTQypQVPQiYuVjzWPQmvzuoriCNmRwNLFFe8f8nmMQidmQWZoMsatXCLykNPXQxeDQZkbDEzXsFmNsfdjfAxRtiXtuBrTC9h5TpDFUi6vJqSJziaos9kAak77gcrssntSueCRkFsSLBV8i8vz2GrpTSriqNxdy9v8HAMVdE9xcvLbGdWhNM7oe2U5JJYJU2qU4qEtvsUZjL51pJQYVZArDQniyhAhCsXWRnBnd97ajbWCX4sV7Nz7k8f26spTrd4LLfwVkvbFM6WcSvvsrgaymwiSSzGxKfe2e1A9JgbkhQhKz4WqUeHfpwHBgjcU2g9uHsMVBGiedqdjmqs1zL8jMWdjB3i6WfBTxGrsy9xvU7m4Tjmdd3LuN2MeWo6hKSvcburAjkTABfuH2HtwEoPUT3DGc8otFDctaW4gCVDWSQE39hMKd6UFRQoEYKj5od6AdG5nVcLsBBwp6breF1LrauLgfQyqMuKweD4xBKaMEbcb8MDwee6hyW6sfkYgRNhjKcyxxsDZz4HGEApTp3UTPrQA6Mgti2XMoz2eskj5veYEeK72imgRss9Cn7Uyc7LceqkwCGk4nEFjgDuShpdUjjRVHguyZHvF1KMg8ZnymdS2zy4X6SMm3ERz8kimES53TfrD2ekkfNFGszY764BgyvvWNjoBdTauec1qVHJhjEz1nP8hZwSwEkPt8rjgXTJVFzRBrUQD7uQQ1TnetgGxVRykbrVm2SFftk7Jq4ugKr68RqR6D5hJDZbyFe27Gj5US4cpVgP5fF1GmbsoUXDt2rG76x9QwZgCJp552FN8eDzQD4XJw9eKtuF9TAvY4H3DwQFngLDTxZZkZyRyfftBMGpdnqVXEJ37WezyQe8WJWuP1UaYJTy4bgAgBfBU1HyMrhYGu38jsAuFZBUjGN8bwGy7PMih9Vy3Buq1abWGVNbxBRfGoVGCnr3g5VgKGt59yW8vDGHritKz7Knyuz278xkQNTict4PUE6BHPYSD1UyzdDDJkfPiKbPum3RwmsXgCw
+Buy and Distribute signature: https://solscan.io/tx/5XLdeHEkZdsJucwutGDox5DVkVHuJcrEE8bypLAWwy9oNcxhDYEqbP521Wvqw8tMJSZJPxb6cvjhEomNMuZYkvT2
+Buy and Distribute signature: https://solscan.io/tx/3piHT9NtDzXaBPXEMFQzBTn64fmQnCA8Yzb23iRUw8F55NJuXanUhzBErBaSyMPWEbRhBA9gXN4w3cf9X2jQtq2h
+Buy and Distribute signature: https://solscan.io/tx/npxbxauvLUyo8RTq59wrfUze7ewW5ZuHiBeiWp85aXZHSfCQz51w3tJizooAeHmLBW1CQCsm7qskZx8nTFC9p8f
+Buy and Distribute signature: https://solscan.io/tx/5RKsYXeNh62iXoVkeqfkSZSeB6bxJhBJZN4vXEM6n1C1zwDjQbyXXj3kWb6XjCKNGUbcgzgKxb6ttUMLfZNfn5zB
+Buy and Distribute signature: https://solscan.io/tx/5AdLkj4RyRvomfq8wLT7XbSMmmXCX7ud5k3vLoFaHFQqtqdxbYuQ5zTLcV2CT33JTLBCHrVEH9vg8wtDA47c88pe
+Buy and Distribute signature: https://solscan.io/tx/DGrjDaAmBWaxzoYjhyque52HcdzdrQjFvrzqcp2VCUzoPocZjT4nWhVMi25haY85wcBQJUzCbrMKj1RxKRKsgxa
+Buy and Distribute signature: https://solscan.io/tx/63QHotP99aVSzAwiyvhpf7ggbTQgkNeVPw7LxVT5gzCa2cqyuGQRcX9xQdbyKgXQqR3Yf6yyuu1N1NWD6wda14mD
+Buy and Distribute signature: https://solscan.io/tx/441ESBbuJUKjtgc9hcbqyAEzr4eLvxqGFBadJZ2JaWrTb4tEaTdB8Q49PcAj6qET3aDtu2HBMdfKaSPBSAuzGUci
+Buy and Distribute signature: https://solscan.io/tx/5aM185t75Eav6u5hSweRF3EESpXxKtJAHD5BKv3wGf5WcMYxb5JJbpveKNeozCD7yZARKvN9hwr7rcmMPqC8jpaD
+Buy and Distribute signature: https://solscan.io/tx/3bJ51Bjbw35GZmkuV89NbxnK3vu3twzZW5wSb8qpejRmyLM6242ufF18aK6UiG7dhxw7Qn87bb9fHySbZtaTWNu
+Gathering sol from bundler wallet completed!
+Wallet address & balance : 7wJP6AUJce49AP8MXy4v6wnMLtnyeUzfRBhh1VeUTEAW, 0
+Wallet address & balance : EwnBrn9h9QJXhQmjfXWPdAKRW8j7seUhdgtDEud7yLZj, 0
+Wallet address & balance : AH2WjoD4eouKP4RdysBB2jdfpy8WEL19W2j2NJta6WJ8, 0
+Wallet address & balance : 3Et7zq5pvCFw6gce2nSy5kSNXC2dRAk3EGhbpDrmF1Vg, 0
+Wallet address & balance : 6Up6yBSaEbNA6221wts9BJdLyafCKR3hrh1dEf3SNQ2h, 0
+Wallet address & balance : 9zT91ch4FESN919nuWLdditpqWPzuSXHxRzECqhMwb2K, 0
+Wallet address & balance : BKYn6mn8Jta5GMTfDCNMzW4oGxCgqoT9Tf3xkAzLNZFP, 0
+Wallet address & balance : HKkeUDJQj9sfMzK86GYrw8mAL6wJhvMAGksF3KtBTPaa, 0
+Wallet address & balance : EYPpoXr2216DSLSb7Sv1akgLFP7Xq5z9tRCbnVRNcXp8, 0
+Wallet address & balance : 66FQejp6DNmHHmcyjuBmMpQYCDhty6thsyLyaSpu5BeD, 0
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/G3UtsrLpAXHNa4AD6dWdDciorUpp42gKk98g179eSHwi2F87WuwqsH5fhYGh7QYea9tr1Emfp5miSumRAHdg8Le
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/4HehuL6QwL3oLiJmkeTEhbQERXW1Ze87pgZ1o28jApj9dSG2KqXJyPVRunAUvZpfgkhheFJ5ZFEQ4Ab2ycjbzxrc
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/5mVbe3vKhYGzCmxrZ1rfgptZRHsybeLGtcRS5cCFRkAgecJkDVVaXLPSWMAn4viRk9wdzrHzMakdwzb3QDakL8dX
+Closed and gathered SOL from bundler wallets 3 : https://solscan.io/tx/3rsKqF3LaHhRtK8sNSbLwgN2z3hkf7uRSKhcE7osQ9bkrkZPPo3XfQhyH5VKmmYzeukXTXGFzh8mj8GmBBkRGHW2
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/5HzrMPkfU3bi6D3tUWiTSWXgC1ho2tsDk9uCp78CNxufJWvDQwSpfK41cVGfGGb4Chempzado2QFMmEK5MqLgLqx
+Closed and gathered SOL from bundler wallets 9 : https://solscan.io/tx/5hkSL5jnS8VaWNJSkZyqv4bvJ3HRq3Nyqgy6SBz6NsgERh6SDorAPwRui9PiNXXmYXtmP9b9RqQm4VqjX28Kqzjy
+Closed and gathered SOL from bundler wallets 5 : https://solscan.io/tx/yDWKhYT2hgHny75owwgcYnhKHVAKzrNFRTitpjoj4ssHWANbaoQQk9EtiLjhmcHY5JoLFsKMSNs19dU22KrqGFq
+Closed and gathered SOL from bundler wallets 6 : https://solscan.io/tx/25nBQKEDknnBe6poTt4VzzKnThUFYVkneeG3D5ofjPv2N4NknR1wd9XDbZLjdkLfHuBxCBdGqFyaZA5MhLwQtUQc
+Closed and gathered SOL from bundler wallets 7 : https://solscan.io/tx/4bysBdUna9BHLN9md9p3fjuQ3UBUTFftGTQvmQr9khDEEejSX8Zjx7FiAuwMXB2FeC2PvnJqi1hrQkTKuU3HGE4o
+Closed and gathered SOL from bundler wallets 8 : https://solscan.io/tx/29gU4XQgT4No5gy6Pc1xfqjkkVNEp97AwNki33JJTCNSfTvkrCT357GZr8SKrHu6Hqa6cpQzXtYtq2gTEcwuXZaP
+Gathering sol from bundler wallet completed!
+Wallet address & balance : AH2WjoD4eouKP4RdysBB2jdfpy8WEL19W2j2NJta6WJ8, 0
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.159891049 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/9sjJ4G5itvnEUoB3RBaT7EC51rW2NDRKgzbeJ6rnMTMF
+Create token and Buy signature: https://solscan.io/tx/9PZGLFrW8Cs6t9qxDcfCgnSqDoA87zAAzU2FrTihoJQXmUyEKqndw97unG7LpywfpNb28kGP2G1SwnztaYKVHArwSwvYM6eSemCnhbEa39baK6fQfQCKHNyrL6oAVM9yYd8518mqF3oQc79FuPYjERetFHe38VBSypre3wxytdnsLWPyNakxoXvqKo8eS3569WnWvHUF2dszUs2YNo6uPxPLBYPij4DqPU74tfVVdJNBVxhYwwgUk6zzFzBmwzFaH9A9tDWEaffTtmZwBuF2tMxWTxKzymGHh1vHnZQS6GcziwwYsr6gSZf23vg6FTEpa6GeznZmdNFz7fJzFhiEySUJNRMakTa3kFJDTF9KDKxRP7PdHYkyECqLk8ANiewizGnmdHYcQrGD6zGoCmbagSKCQUW6UdP25DCHHvZQFfckjEtUZLCXQwthHF7DCK7ssRoygp5HT4tLWhMg6wxCn3uDTQ8vQpimBqxqYk3yAwDeM2JVkdgtHrFH1XtEVVTgJNhiJxjRTQzA1b52h36R75KRAcHdeNi4sCFfbsqmQrNXz7FUsJFGq8vC2tLu6Dc2mfDJCVGSATvmJ2TBLoRYa7WM3SeD84xqWhUhLcucQyzjXgRM2yaJ4QWDS1fByEn1fUmuLD3uPQq1s7LpSh9CbNxeTNYaZfM778YpaMqNgbu6nXuMpQsf6zmeEgdEnY4AwQiPf3KGHm6ixuvAUocZdokFn1h7Up7Rcqhbp6t6Y2L3CfH15KGQ6eBvSqouGw2SJo7UdfxPZTfuEqKHUrYNc27gQ3yChGb8rZbFassLtk7mnyGZSg4rsy4QSzy3TXRbAUnfKHae6kN2nPSDpziiChAdkQQyoX44iZLh7wdsUiXBBRi2Gcnw5quTXy1JTNLBsGxTF8gBf1vq2u7k39xgQDMsvj3yo6na8s89ZcnNfzEJ41Pkv63Q5QqAHKPPSwdPCJim9cD4t9oJCvWNEBggZAnqhRGv5esAmPRnANbW1YX7Yu8pTJV8xgc9LCSzWCvBBxNMRvMjnNLtfY9XEKByHb7acysDDPffYQbxwQi1jWcpExs5hcTnhqrQ3MxVQJs1a2fC8nU4wRu4fCkmp8WExHn9XMzETDZB2FgA6gLidFfhaKzLkuqWBpKk2UT9BHf44WeurHUt9fC8bboy7CpBwaQg2bRML6JFhwj8pKA3rMWVdsSXiyjwfwWDVcQX
+Buy and Distribute signature: https://solscan.io/tx/56wBDR7xpyhLqWLTQmQT1AabEo6aa53YdUQK9bSM34QP2G3SWmnwbzY8FRenMVS8Rm5ueXGt9fWqcoKvd7aYKA9E
+Buy and Distribute signature: https://solscan.io/tx/5dhN5esKuoNDYCL7yzmBoraA8F99qAfkszZGHjuj9fKfxR6A3hwNoq9D8BHUtCgmC7qCzB87UzbzbMDk8uHtF216
+Buy and Distribute signature: https://solscan.io/tx/27Zcgw6AseiHGbXko7Ba9TZgnWJipL8bxQqNvogDeGK4Uv4hWXwsuyoaJTAY1LNRvuvSQBGGBhZP4D5vzDTBJ3Mi
+Buy and Distribute signature: https://solscan.io/tx/2pVW8chUa5mGAAXgDaM6AEmGcBXpgFjiP1mfowXBuahEHQTKZRvbsC5oknzPQiX5f8rYDamuBiZRyQ5k8FG7iRVh
+Buy and Distribute signature: https://solscan.io/tx/4cZZrvoMm3jYXhzXh7DQS1Sf6TVxCyXQWdGV5q55xYpC5ZC3NGrqK9txCPPz7wEz14CTWArYEJr7bMqmSy1Jxq1f
+Buy and Distribute signature: https://solscan.io/tx/BBN2iYwPkCzFr3NuAQvWtpiz6oPRcMvrUfyxgQv7VsTYyEZdJuYRMJaBSwQzoRSAJLt2BVTtQx6xBU9uogLRWvc
+Buy and Distribute signature: https://solscan.io/tx/2dP3QqWYz5vb3SxoL1B4EQoVH9yY6AgTaXUv822bLCzVrHYpTJL3z7jK7Pc9WjMFjdV6CFFPfGTZ3VrKyUpAY13B
+Buy and Distribute signature: https://solscan.io/tx/2Q2dmjgRbXLqJFbz4GLfvRx4RjRBvHd1eo8dhfaTDkWdqnWG8peqoc52q5bJVfvW71ZGPCfwxpq9B7nfWTGMHzDi
+Buy and Distribute signature: https://solscan.io/tx/4Fczz4DWVusRZhBvatkd25jFKARbBKkFKyKibD5vu3xXv39NwtdJNBhJ2WuHaPpgE4B5e4aHmsg1hMP9UshALcaQ
+Buy and Distribute signature: https://solscan.io/tx/3iuC1kw3q2zQcKRhsLqBAL8Nty66QECd3rac6VrAMDHM3nKwQneKKNGj29nznd3Fpt6sigTSiE9SRHdsEHsV6UNu
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.159881249 Sol in Dev Wallet
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.159881249 Sol in Dev Wallet
+Gathering sol from bundler wallet completed!
+https://solscan.io/tx/3i944yPFHSnyunJLwHgCWrfMLxLBjTxbfV34Vias6JL6zXLQyXactgKHiRMAGS1k4uvXmbrUgvxEVmDZBkhXsu2N
+Success in distribution
+Successfully added wallet addresses.
+Successfully added base ata addresses.
+Successfully added Extending address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/2y1eeubvXi98F18pT2Ng8Poz3UoZ2NTXh1guCrCQ3ogP/entries
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.083300089 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/HZ5TMwhLYBFL7BwJv8wBqB5vxHHAEesJAaSfiXFa1RSL
+Create token and Buy signature: https://solscan.io/tx/2ciVjuTZ1pCVS5R4AoUaiywR9Yveb5qU628nsSpLTDuhJtQfNQinpZTLBRSzabJxanz48ZBf8bDywFtwqzsyz6wq
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.061203543 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/HZ5TMwhLYBFL7BwJv8wBqB5vxHHAEesJAaSfiXFa1RSL
+Create token and Buy signature: https://solscan.io/tx/4rr43JK39oLSrzHs4G64ZAtz9sVHBN2158pb8U6jd8iDqwAuqTYVA2TkJ5p6KV1FuuyTbCvQziqQsyBNJN3Vtiep
+Buy and Distribute signature: https://solscan.io/tx/4QBiwnSkNTAsAC21jWa2JJRwMGPKMbNfP58PTxeRYpytJmqGbRL2vqzBqTZWCqXsKqKy1xyzTmuxg4Q1nu3mzGRT
+Buy and Distribute signature: https://solscan.io/tx/4hAAUg6JGHX9BbTdhDNC94n8tdvk88pu1oLCVUuw9Pq3Un2KCS94fJbViKoWQMNadWusZQqKEHEKT5qKRoSeUkZR
+Buy and Distribute signature: https://solscan.io/tx/5r3AEVUoFeopoF8V7qx4NRrj3qHpVEyZGPwwiqFY3zVBR7KdGawvXRMMxDjPVxCeEVBca1T4eCmLs5TuujvJSvJZ
+Buy and Distribute signature: https://solscan.io/tx/3WUCuvtHcHva4cykv4j31iGobea2XrbWAQFfxoengjNVjzVoghKbngv7CzCkfGaEUqvppQ5dgooLywC7CeidAXWo
+Buy and Distribute signature: https://solscan.io/tx/31A8r3osro987EqbEFtSpYCVEEAqpcapze68eofDR9ytnqcbzWjjpmhVyEKpjVYAz33K4v4GDTcto4XhDBqHVkK8
+Buy and Distribute signature: https://solscan.io/tx/4UvSozS62bbBGiCNVXMx31njeNWGNUem4xpuYgyAjBTNzAXKMCfvi2s69pGWJQzXTD9CqzqV5uaoWeGemqPPXiZy
+Buy and Distribute signature: https://solscan.io/tx/4M4TUjytGS7kmGuqkArJBhxzDsRpNXPhVcXaZ8pshoxiVcPhHwmwwsKNkZuiaAg9PERu9goVQvT2qdeHnwqJcUth
+Buy and Distribute signature: https://solscan.io/tx/4Ks8qPx3JM81A8xiJBLoz2sP6eXB8zn4sn8DtzyCakr4irEY3y5EvH7th2mAXkx7uX9rD4XMrfLTFwXmaf3jXiWT
+Buy and Distribute signature: https://solscan.io/tx/63tsP3fWQu4oBuSdAd1A15mYDEUJ3vwZB64HJyhSMuLoxbA5pXLe2nKxLHARX5RCKt3EDuyHNqT5HWwuzVVV7rGA
+Buy and Distribute signature: https://solscan.io/tx/4bcww4LGcu7v6RhTaf9gQKwRYbCWE92y9jZjV7uyQEr2pDNvxcNg2TAErEgtSyYmfLWjCg6bbGrRojNkBuNhN5RX
+Wallet address & balance : 6nbfG3TMBoaKPnRNfbXnySEe67eRdiARGt7o8NVUQVTr, 0
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/58iYbA8DWxwHWbJepgjssycbby6QVBVT9ixfqsadhC2992KrmWnKt6zfCSGJGSWnsP4uD5JjtFgL8urBxtMHoaZs
+Gathering sol from bundler wallet completed!
+Wallet address & balance : 2yhqH6UJ9tucpsdeuDYpj92UaATgpGXnJUERVA9MmKqd, 0
+Wallet address & balance : HsRnsD4WL8RgBA47rDFBfhHNXWzZ1Hge4bTCqmUMh9yf, 0
+Wallet address & balance : GztwKSHnwibfK3BqPorvV67gA8QHmQLzpFCRf43FHE4G, 0
+Wallet address & balance : Ax5R1Y7UqtKfG9RmxY9RHG5YC7tpHBK7KBTw9hCSbiU, 0
+Wallet address & balance : GTp51xSAgRFGcbgg2pnwUNDJVQbqbUktBjnH7gi2UMfZ, 0
+Wallet address & balance : D6cAWaKBkttSVBRs7vRXrLFGiCgikB8gFfWtgGhq5aKp, 0
+Wallet address & balance : 2npxNFMnPQeC9q7Bjqc5NkdgnDFqMMG4XwRNX3cHXnDv, 0
+Wallet address & balance : 5Amk6v4UhJGoEsTDeipYeGpuPEceZ1DcqQuJr7dZD3f4, 0
+Wallet address & balance : En6MLfYHpxi3xWrX4iTv6oLQ855ZFCeKmxRuQZDdEf39, 0
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/5oYiMppLraAP6w1kmBGhr9YiG16ixyi44Za7HSHtgZUfD1qYmEFFbSNmWrErhHe48aKirzanZKZujg2Rs1WrkkTq
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/3FXin3TqPp9EfLt3r3FSZRqD1mk2PUTcZnV8jMSuGsFJjWvShqsMZ2qUxhn44QFztJ8v36mM5zny5gHJvFarBJVB
+Closed and gathered SOL from bundler wallets 6 : https://solscan.io/tx/2YhEiES6exHZHGZxvZAkA8ngGq1TTGBZvzU4gvfeZTexLk2rsATAiEfMXTLFBWN3t7o4LgDY7iFm4J5VnN3EQ4Yn
+Closed and gathered SOL from bundler wallets 5 : https://solscan.io/tx/5cJc2DroNC8HSfddpeH9ayR4JonVT6RphpqyfhxLTTZVN4x6sFiT4TSM8aDht1KYaWWxZxMj3rTJh3j6pLpMiT1S
+Closed and gathered SOL from bundler wallets 3 : https://solscan.io/tx/3quzvs88hQQmD6jNfYm1GoCG11nYY16qVEGZ4PzDWwc4xTSKFeCNiEvsG3XLgspkxfQ6rp6fjY91HNcYAGfqVrHe
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/3LeqvT9HvGRdA69ygtfCTGzz3xY7onYB1XXbanUEhr6KrrShxGisDzLEWHytNnXK4v5wjgEBATx4ZbmoCUK6SAcW
+Closed and gathered SOL from bundler wallets 8 : https://solscan.io/tx/4Fozuo3Z2kkVYVu4z3uXr3rKAmrFDG2qtmvX5mHwGEW7gyp35RxzQgw3sPE93XQVC9vp1WjZLbGWBQQ8hBBs4wh1
+Closed and gathered SOL from bundler wallets 9 : https://solscan.io/tx/3LHPnRfRgeMzSQQiAFBGrcrvoevnyqttPXASyBBCtj43QZPXg9tJCh7QEye6Zn8nWHLKbUY1P1ACRmEJVofHgcpZ
+Closed and gathered SOL from bundler wallets 7 : https://solscan.io/tx/5anRxJsa2YQKShAcNHmC8Ncpdnh9ffBmYmgCwErLJ2pxCWoLej76cvB9yUQr6p6N8RxVrRnzUCXFpcNNkfq3Fkta
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+https://solscan.io/tx/2gfqDAgq6MnHBAkgE7LFcUd9YKcW5vur4URzWrLgMMFinUuKzogEHNfriUCixRTGyX4hH5Z32KTeC19t5aoLMCUD
+Success in distribution
+Successfully added wallet addresses.
+Successfully added base ata addresses.
+Successfully added Extending address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/2y1eeubvXi98F18pT2Ng8Poz3UoZ2NTXh1guCrCQ3ogP/entries
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.049773006 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/5LPgXaniZ3jdeWCroG3RSzoUKtsk9r965BM1Von95QGE
+Create token and Buy signature: https://solscan.io/tx/2USG4SbwVJLDfoGz7FKZ8Psi8YF4XzMMNeGuw92YCDRf5n59PgtuXUX4aGByLpaB9backJLymQoXxz1mpYw6hBY7
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.027676452 Sol in Dev Wallet
+Buy and Distribute signature: https://solscan.io/tx/4ByK7xZtSZdiZ4hdvCmmwE8YPnLRiJcHbbisy2ZyPCupEo35r5oxgGxMy8yYG9Yy71ydqPaaLCG11JrRSPSx1p6y
+Buy and Distribute signature: https://solscan.io/tx/4wiLLgWBjFSthTYB7FjHRTHxMSpay4yMbyETvc7yZhLVauBYGDMuE9bmzS1hhXCp4JYp9RddhbWzxiAhkAs4FAF
+Buy and Distribute signature: https://solscan.io/tx/sUGYhWDmdiBgcz9izdndrmpNcqqsnFTstJZGhA4u8HncF77fbeP1oqdS1EdW9WDkLmeY4uyjrFCeN17ur9kLYpX
+Buy and Distribute signature: https://solscan.io/tx/3fcQ2abuHamM8AA19UDVa92a4mCYZEtUZFi8QKJ5BcSh225zun2HVnMuiAmJ3EUbbR1ia3LUi4CvAj2DKSj2pjUP
+Buy and Distribute signature: https://solscan.io/tx/4UzBrq8nXr2T32ZGN6PAFvvv9kFGFfNDcqpDhWeKoVj7cYrGNdKhF98BQHLwaUsAWFSmUPZuac7DVqdkwH3Zw82f
+Buy and Distribute signature: https://solscan.io/tx/4cNdDi1NY74WtkGytBTgeY1gBgWLEaZhCWFWkEXDSwWqK3AU1pxeEbmrMb4W79Qtq74HRQGwUDcY5XhrjrDSwmmT
+Buy and Distribute signature: https://solscan.io/tx/wqbrGxP3f2aTt5b36zSvkyBqnaG4fivG9D8GLTBCATiKoYLrwKobhFmUwuPKo7Ey2sdTAUKHHG3cigG8BwfgBG9
+Buy and Distribute signature: https://solscan.io/tx/z8yELbyVxPWMBZWq7aDxYNVVML7qgrpZgVDWMzdiEUbzq1QZMNkL5EM2zxbCHeLFq1PH6xGQ6PTSckf3z3G8ytC
+Buy and Distribute signature: https://solscan.io/tx/2T8AM6BcFamvsWLGwzYc2GnwCTRVAREsCHg7ypeDg89BAoyW1u7XFzbVQ6j361AQZKeA4EzTsDEZwg1AyQoHHyU7
+Buy and Distribute signature: https://solscan.io/tx/3tGmNBsQqRh7efwkn7fcth1oXjnjnSHvDPQLPdZ9JdtWBNXiEQTvRAmRkmkXNqSFFGYumszqqUW2fHcgR6VHtv4r
+Gathering sol from bundler wallet completed!
+Wallet address & balance : 3cGh86yKFZ28MthSACaZGTZdo9RoV3wAGZ49wXSz9H8B, 0
+Wallet address & balance : DysB3xQxcnPD4BsRT8xGYRrAfviZg4vafssbxHJwj6cR, 0
+Wallet address & balance : 9b3aL9bva3KrAnHVWNp7MUMMQiwof92oTH8JWV5XS7W, 0
+Wallet address & balance : 4kgxKYKMDP95LK8fXJ46gh9sdwn3TXqDyjU2NFcXVE1h, 0
+Wallet address & balance : FU1Cf6gjCTAxaxg8ZWddC6q3e14EkXyXA51n8QbN4t25, 0
+Wallet address & balance : Ebd83nogMyLZJZzG9hWTX8DYD66KCtcRYfZUjCtJdRbA, 0
+Wallet address & balance : FiM4zz9L5XZ3KBvXk2x2njUVBv9G5kL8cdr8z9kBe7Qc, 0
+Wallet address & balance : 5yNnUnwrquNVBZeCjhZcttZiwrSxcqU8fNc4McArrjwv, 0
+Wallet address & balance : 24XUA5FyxmYobRi667Z5xm8jKEMNGxNiPg565hg663zq, 0
+Wallet address & balance : 3Q1BX1qzPD582GrPYZDCea3rJa2PuZFfzAffcyT87qA1, 0
+Closed and gathered SOL from bundler wallets 5 : https://solscan.io/tx/k2SWbnFm2YCvNPk42Zz1tXDyc7sJMpYavCNBfjZDxhyQtAYayPTneTZUoAF5XGBNqPL61DaCPwwPdeiFQds434x
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/2chPuEgtT3r7Wf9S7dyHnGKD5Tu5kmQDaksPJVCjJ6k3xrfz5ovq36X1C8wiK7KZmV3B1m3Q2xG7kV5oz4y5Uhy7
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/2EBPW9Rm2iodZQnZ1tqzn8A3iSrPJjFTEYEM2UUz7YarsfZdpGAS7H4kYvB7h4Hkpbr2aLks7KvnqDkB7YfBTYsg
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/2a2PEZgzKhhbBsan7jCX3XzeeUSPHzVGvdUy6zD7z3svsAozKpN8hf8ifVoeDuVKq72vwTqdhrkzvUoc2nnSLeo1
+Closed and gathered SOL from bundler wallets 9 : https://solscan.io/tx/5pf5He2FXoEBsbEVU2smLa6ZCAS2nRnoHY8mi9iXWeXhD9STY9GAZBfxyQV2jWKhfAywo8J2Fcx3Kj9rq1Sp9hRi
+Closed and gathered SOL from bundler wallets 8 : https://solscan.io/tx/73kwxshdw5PqsPcSuThu9WsC3SPWdxv3EsSoa2FFZjqTX1BN5Dqp3jCEAufBfVN6AycU5SFTrTngpfUxfXX9G5Z
+Closed and gathered SOL from bundler wallets 6 : https://solscan.io/tx/66DZSCkHFhHTz1rho2G2owDcNAbJZ6bZnH2zK3enkqjHudsW2NeFutGY5pqgQHjRG8WooDjrocwM1zAeorg7ruTo
+Closed and gathered SOL from bundler wallets 7 : https://solscan.io/tx/4586N1HrwyUvVDZxBaLezC8gnPoynq51Cw8Yqy7YVaWN9DRgfNkGk9ZP5wwdRpVrpwYNKrnaftTDYEMwiBnkpwrg
+Closed and gathered SOL from bundler wallets 3 : https://solscan.io/tx/31agZisqfeH4PL81eGjHqtrf67jqZVt3DU6gmQTMBHmU6AJkX52r4XfwDArs7jPZxivQuFtiWUiv8MefekPPX5eD
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/5vRSPL3Xdh5zTe26YV34ZwRQopx4WtXCb2LiJa7KYJeTwiZ2yj6pxNtMexqfHRyxqnDKjrm76jw7aUYRQGc3VY18
+Gathering sol from bundler wallet completed!
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/aAACaSfRzxtfdb2y8CMto3XjR1G4SNdbnrhXT52s5F4NkauJKSdWHvQFXkSA8Ao5NhXkRRj9eokYz8jfRBFi2ZP
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+https://solscan.io/tx/TxyRD5TE3DXwG2s7RUHmxNHTjA8jp61ZjFMHxniiNHjENHGGdjyv9aVvJtgrcUEFMY1iAAgF4kRysEUrjja35bZ
+Success in distribution
+Successfully added wallet addresses.
+Successfully added base ata addresses.
+Successfully added Extending address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/Fn1miqPVyNCrTRUp3xygtBuUPpDjRAjL6J6iM1WBfVSe/entries
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.026117102 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/Cd6YMDPG2qsnB33qqarYNZL6BQr4KG3W5cVnrsEUSScU
+Create token and Buy signature: https://solscan.io/tx/3boipQdyh3rHKHS253jwazABsZbNnfZr6ZYCe9Zrw1oDk8TxC38eQNvcvLDjdSUofkF3DGzvqwVCaPvfxeDexbTv
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.004020553 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/5AMt8LPowozT6qD351dxyPZJq418FfrPSVVTwxw5gTT7
+Create token and Buy signature: https://solscan.io/tx/3CFbpvKRRCJRuTvqgkBpj7yNgMJMfcTj49ree2WJxANX2gGbEs44MstoreNn5XGDrRxzgfiFH8p7NMvpLEyfpPGS
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.034010653 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/GP7rpbF1xXSxpH4UYFqmVrZYw7qkPE6sMga16QwtbDs2
+Create token and Buy signature: https://solscan.io/tx/3GXiAYTAVmo5FNtTRG3gsTbGoCyEgh1rWFizuSeV5t5ZpiEzMwEkZ6GnET3cdHdK5wbex6xHXVTuMtoqk4p5goxf
+Buy and Distribute signature: https://solscan.io/tx/5DPUuLLfQoVLfSwRVxvcQMFF6qnNRMtRvyiMAaBngk21o83h9YMmZsXk2nd1r9birmXkwThpz8otJEZUUZycL5Hp
+Buy and Distribute signature: https://solscan.io/tx/2ZAbLUQSuVhiYEXXhEzxUWyyKGwQG3pGwmGJUt8tfSD424mZ4y42bb91YhhPM9DXZZX1qLYF6uSjVBW86inNs3pL
+Buy and Distribute signature: https://solscan.io/tx/NUdVYszz2UMbJVqF3XhbRcrNDxWxwNPau4zbU8PtbENsv266Ji9Nz5twTmzbtD6GsYgp83vDTz7z9x6Q7VNNJ3K
+Buy and Distribute signature: https://solscan.io/tx/4fAfKvqqZrQgrQhNqguJrRr8JVX8258bE9PzBCGoFPMnRbXyjFNp31qS9diWL4YL2yG6sbehTfZjq2nuUETwq6GC
+Buy and Distribute signature: https://solscan.io/tx/37DgQWSJCV53ZbeywTpkdMoRvVBHHmZ3NSakLrncQrFD3pdBvSrUv3CSSdBcEtFmCqcKoKwpSe3EMbJcxcdxitQM
+Buy and Distribute signature: https://solscan.io/tx/2BNKPJBrngWpmmgWUGibBUytW6Y3Mryj9JkoGRhTB3sSCh8MRPFvD4KysSEqpoj7sLWFzWnNLdZHQ27Grzt7rPQB
+Buy and Distribute signature: https://solscan.io/tx/5Gm3P6qELpFiNxQtAGJtPKKDSyqAyTZRRXAXR8YTNE3WVYLRyZiMjbVvp5oRxiugqAPssg7SnbBj6ext9pTnxLDw
+Buy and Distribute signature: https://solscan.io/tx/3ikBDnPCAuWyB4NBCb2ty7PzystcS7tXkbuH2Sxy8DdnbbvDhRyGJYSRUgYMqkGiAgiGt7C7x6ih3PgHh53Wd7Vp
+Buy and Distribute signature: https://solscan.io/tx/XtPhEEeGsbDcfA3CCCRnYyHd5XsEg3673yLgHtzftm8q1NtoVJTuDxstuSroP8oeNUsjjEajreGdnm4Q2yPowvT
+Buy and Distribute signature: https://solscan.io/tx/62Vk9xzQMUEDVhZBubo6d5wQJAVRsLzQwSNDJ2QMYMpQv3vp9woJcFRadCeHyfAZw9yJ8BjUxsMJjVjyWMeH4NXp
+Gathering sol from bundler wallet completed!
+Wallet address & balance : 4ZNWUKiuN1Bte4wQGBGU7CM8xVt1rovqgd2WB3fJe6Ux, 71219143432
+Wallet address & balance : G3ZwXnXTZFKpaUZTsxtNzGNyJYMHj4zEcUtx5tsh9zNs, 71219143432
+Wallet address & balance : DkTt3xKCSx2btKJ2qwNqhghgfUgHP4W61kbKcLZLesrs, 71219143432
+Wallet address & balance : EqXJXCBajH2hZc2sHXXoegxmBEaiJzpH6u6gDYE8s3Gn, 71219143432
+Wallet address & balance : 37nRRgGvSEUHfG55GUCAhWarDUkwv61HVBWQtsZT3GpB, 71219143432
+Wallet address & balance : SFpJL7HRgKUKy1QqY2q3PSNYdx9YgwWE6nLd1rfb7xw, 71219143432
+Wallet address & balance : 4sR3F5cwB18vc3SoBRVBDt4K8MXZqegqH2bsVzTZkM4J, 71219143432
+Wallet address & balance : 29Gi3c2gvA2WSX2CxwmHvouGjwL6jJvZEGjoo5pSEA7e, 71219143432
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/5HMezfpGPD1FunM3qyjJkMmcW1Quf3YqoQu3mMYJECBa6fWn2C6oTc5UpkeWNigJc7mwZ4DdpHgdmCXZPL29gdv2
+Closed and gathered SOL from bundler wallets 3 : https://solscan.io/tx/4FYYBmoqtNvHSkqp1T1gxjp9WViGTAboZydcSopwyZrR5YtvjCS6cAuRABRowx8K2Stjb6woJW7tjb6oLdTEsTmB
+Closed and gathered SOL from bundler wallets 5 : https://solscan.io/tx/4ZBUjbL52CgabsaLEe9vmciDk3qWWZwLCtjfdyw49dQtHS9mqGy9UbgdVY7tjRq7P9uLVjYn4mktXABM2fyfJgx7
+Wallet address & balance : A7hWza5gajmLybr8xFxuFGhZtWQYM8pXAsawMmCvq2ni, 71219143432
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/2mR5oB7yZ3UfVeBm1Z6s9PxUYQeZrrzWMT2EuU31pg9BiB6zPA6u6TJFT7ipzt7SQ3DyYbKQ1srTrfsSHpsKAR1d
+Closed and gathered SOL from bundler wallets 6 : https://solscan.io/tx/3CyubcK2C49QZP1JEY4t5cVinHJoHVyyExPVwb1pRM2sdt22sAEV9EDojJVQSS7y7gvVJBLySWy2KF9kehX62YqK
+Closed and gathered SOL from bundler wallets 8 : https://solscan.io/tx/3jBha9rwwtQWLVGVmC4PBwm4VYmnmxdnJnZB5vv7WhFH4m7gjXeQsrBMxCoWb9PRMPc3koCiVx9ayQds9yTDDFrF
+Closed and gathered SOL from bundler wallets 9 : https://solscan.io/tx/37KEJNpXxPi449wnNwSGymP47668eYKL2wLkvmLT8Cb1t4bGDh8vTqRfnY8Q1seV1qibRHx6nJRRN6iaMyaJBxcU
+Wallet address & balance : Fy1iWuezAsckBWosigvUAAvyp7K6ds9JvRfu3Ej7m5Nt, 71219143432
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/4QvMs98h5RZy5KFPH1V1moa5GnHSXFhWKQTMgQhmmG1CsjQMprEeyWPkABHAtjujZoQ4HVWEHMuhSywH9MAc6HYo
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/4dq7ZomnfvZ3xEfapoBGTGZUfEtY5EeHywD5nx2rEFzSYkQXAicjhNpzwr5Vd2r3T99FWhe8t4GtsLDvJPpwcNbb
+Closed and gathered SOL from bundler wallets 7 : https://solscan.io/tx/3pszrwG6V6PV2fvE27copNwftBBjsvbaDtawihRkXy3i1ykP2mKSPXLojmSw3m4JKKK4U3Gh8tZ1WQvXjR6kRh91
+Gathering sol from bundler wallet completed!
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/2s9wiTiUT6F9J6A8UzoC3SeHtJHpvWLSgnFw6KdcJw2kM3aSwGMg3xbmxgrMrPQ5UrDphJhKhQBWtpWuiXjmri8A
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/KdJyGLCBCBtirPVRmYFg5XktsSFNp2GciFCCtd9QgmaEdXkWjWFgayL3WZFvxdWMGUB8oMKgohG6o7CQpvmYHNF
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/3z9qw6w8rpnuDXTMB9PPCc1Aytc198w4uHGYVk6Vkwbi75S6xsqVc5XK2r55zRyQUw8YE1GhK8DR2zoNXErRLLJh
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/4z7krdsRVZ8RFFVR7mvByjyLNf4ckSwkmChTXmsk834pcVMWDRwFDUx1q4mhqxDiTCdMmZNp1oCo4zaFH3jSaLuZ
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+https://solscan.io/tx/HgdhNZrvtZahTZ1EUiAS2THaUJ8o2qZwt4Fos6USoCjJuPsrS7gp8gDvXJxuGtjurjxHKbLHmuofPCXVv9Wk9Ya
+Success in distribution
+Successfully added wallet addresses.
+Successfully added base ata addresses.
+Successfully added Extending address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/Fn1miqPVyNCrTRUp3xygtBuUPpDjRAjL6J6iM1WBfVSe/entries
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.089290985 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/AfMkDyBnTqKzE9QFMAENLVs4UzYU8khU3NGU1rFW4ZGg
+Create token and Buy signature: https://solscan.io/tx/5TNEtUynyhZvsYiHNGcBbHE9b2WZzCXmxzSbKgsD5yoo38o9qWmHhbDxPRDw3WFrZ8LaMgCm2wQXf5nZbrUqzZ7h
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.067194637 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/G1Sc4Zzed9iCK56SgUMwTRmUnYFtRU8jAvKR2Hfmj99Q
+Create token and Buy signature: https://solscan.io/tx/o64WNNZXPfrfFMJBMATbDA1fz31wYwZyYTrpjisXWusG8MK9g2qpHWmgzZjKY7ibHuVGAWgSgqLHHADTgkTQe5F
+Buy and Distribute signature: https://solscan.io/tx/2EZMmS23R7LWSTyFKx8YgmYMXiuLqabHy9Mk4dLgVe6Zmv5rQ5FdiWWpvtm13KxY8qgeptF15NGofL6fCEoMTtPA
+Buy and Distribute signature: https://solscan.io/tx/5276vv4Z5bhkKNKBEmiiDsmodK6m4zNgNQxK99zMWbAPFzePyHM9Pfhi1vZFBXmKJDuHotpjQhaGShMNUZdLwyVs
+Buy and Distribute signature: https://solscan.io/tx/2Zx5djWPe7Uxhs4rL6Eo13QGBQKGFqvjGpmfzYj8xeEMLh64JnCaVYMx5XTxXHx5crh4saUWCucxvWiVwVsptPu5
+Buy and Distribute signature: https://solscan.io/tx/4YcY9X8c8pkDiD9Kyf7mNxuwRNpa9DHFwzVh9gSg3Bne7Xe9VZWqGbhz4jWQxhYXrNFyRTKCdGY34RkR5EuRAKX8
+Buy and Distribute signature: https://solscan.io/tx/2GY9PzZy1hrtU8uJTvpMf42zR42vtfyfiCBxYLSt1dAyq6AeH9XkkvYmw7WTFySNdWKrvfa5USGVzwaXb8Ea3yq7
+Buy and Distribute signature: https://solscan.io/tx/4YHAjzM44EMmBfi6Byks9KSb4GeDv3YkqhwgRZpVSL9fW8tHtrbNBb5tMFriSMpeKCaUYjdEwuzX9rh3J69LeH5d
+Buy and Distribute signature: https://solscan.io/tx/3Yr87uaCojT59C5e7d7riJCYei1Mn247vTeKnq8ukupeMWJ8JvhB7eLX8myJ1t1KwduFM4QZtFHWR4463hu7rwbu
+Buy and Distribute signature: https://solscan.io/tx/5aBm7svZ3zEi1vsXXEQDBX9wxxfQ8fjGivZo79QMVqeKuwasVY14MgwnkCTHsgYBdeS56nDueH8v7TiLQVtBwsjG
+Buy and Distribute signature: https://solscan.io/tx/5X5wz2dEDATgGN5fGruvgdWxBa3S7U2kTKtdVq4CzZHxqgr3tS7bzTZxuKwfTpgK5tM1p3SWCWJpy1udDAR44PY5
+Buy and Distribute signature: https://solscan.io/tx/35GQNbvrStaFSWHWH72K4dCCJKYWKsBSgcL6giBC6URTBbrrWPv5dE4azGos7hhPM7FbAW5iekTZHzHyFKCuRybD
+Gathering sol from bundler wallet completed!
+Wallet address & balance : CbAVriXQ2Mr9tDxAn8ySvvy2WgLRX9pEh8YqZ791HScs, 59607386300
+Wallet address & balance : 3XTg9jPpmwM5vW8w9J6q3ZT3xyZEtCCmZA5KtqDEinxM, 59607386300
+Wallet address & balance : G31bCQeEePyc1n8EgMfEVkMiCrPz6T9NZPL8xcyQjNZv, 59607386300
+Wallet address & balance : 2SSPgQHd5EMvsfAfuzVJcMjR1xnsVq5MybhThiG3det5, 59607386300
+Wallet address & balance : 7vEBwoLHqgCggn5Zm9zPX1heFVBrGubqdQvd8FtXiomr, 59607386300
+Wallet address & balance : C9rHANf6pxbtDXcC3VuVvKnQ7VNydNTWivN2BApY2d41, 59607386300
+Wallet address & balance : 6vctaVrxXi1dSJFzkUjtmaUd7XUteZA1jM8oksumdDx7, 59607386300
+Wallet address & balance : 5ntYoUmWkbY4kJaXd5QbnJVbJm9B5ZzN1u1e8c77TduT, 59607386300
+Wallet address & balance : 7zG2PB6b8AEgTux8aWT24AcMDjPURL35fABUtd4B2mK3, 59607386300
+Closed and gathered SOL from bundler wallets 5 : https://solscan.io/tx/K8sQzoDdkUieVufwkpDQUdHWu25numAGfBusfKjXEmEpKN1cdipj9mNrDUcWVA4mw3avrhW1TpytkVVDXmdey5v
+Wallet address & balance : kvLBbLuWbKAWvdGgDYnvtkQ3sqeMNZxLDGzN2w3YnXj, 59607386300
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/3s1i5yCGQvgiatcYkq7nWZWZu4DSDHQKD2mrCaw3dq3bxf7v6hJA6xw8RJz4y4ASDj7YVdA3UpPAvJXgM9JcnHNq
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/z5H6xpCVu7FnB9fuuUJB2fXzr3zZ4ECnytzQzUSMPVMS5Sx5mEqxMoQpHKHMpMx1Ag17vx3tRLbfSJsJ4LeYtGq
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/HgY1SQHGWtDxEuNW5ED2VictJK2KK1YFo8tQJCrDhXdH7CrGxVxR4LFkhEGNt4tFebRsK7RbPbW6naAq8j5gwYS
+Closed and gathered SOL from bundler wallets 9 : https://solscan.io/tx/4aHnMbUqr2puXHpnzr9Eb3FMTJ2nVZdJXKxEtDFqJsFHSt8sAzx3ojg69oGdfqjY3Hco7FMcmBpsCJYjvyr8SDbh
+Closed and gathered SOL from bundler wallets 8 : https://solscan.io/tx/24cQKjxfiFU8p5pRmohvtwWRv73pA9qFwxveXqLmjkE8L8cUjEJS6S3Fgoc4aQbCFEPZky9j4n1Zz8M9DDMF4tJo
+Closed and gathered SOL from bundler wallets 7 : https://solscan.io/tx/652WtuvgW4RqEipJctzM3Nn8ga5PX9XJD17E5gWK2UMbEsbWTvBaSyo4eV39DGGDjFGSMySPmEww3pCUdU7cMpjX
+Closed and gathered SOL from bundler wallets 6 : https://solscan.io/tx/34mhLJ44a4qBRfgH48Ban9oPWa4rTsnnqT2M3GHGsnGmuob9yVBC7wQHmtwhE6uDVgqNoPZMMkWwN2kr1WTaRXoN
+Closed and gathered SOL from bundler wallets 3 : https://solscan.io/tx/4FmErLxRKnMtxhG4pLr5226A5iMoKWQJhMoqkQG8bLo6ZdwHWqhYPnz4q5vaLSKzAkQ4JERciVcEpXEiUoSUo1oc
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/3aDhZvHfsSNYkd7k58R3UJ21CiQKsoVUHp2d7oeSAMhqerRbcv6oCCNjU9PZC11Anhd6wNGLW4dCsVSgmZ5ERccX
+Gathering sol from bundler wallet completed!
+Closed and gathered SOL from bundler wallets 9 : https://solscan.io/tx/5aK3NA4wvnVMRQ3727hhn1U5DwRYjryNJUhHoDgjYPaCJ6aPwe1xfDix2TiKy2YfBYTsn6zvrrZskxA4AF3vEiHC
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/4UzYY1Vpvch1k2YXnQ9SQqqVTAqfFsW5u9DuHBVJFuNWYmSozUqAdKi9JL2oN1M78UbT3H7GCb7jHnAzTQjP2f67
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/2FFY2aCCgsaPMaCEtfD52zWYXYDobaPVuD4NLt48aSRRgUhaBJxCrT3dBfDSA8D8nQ7wnkbTQEwKXsAJrGLM1PGb
+Gathering sol from bundler wallet completed!
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/38VXunknG47ELjq7RPiJ9cGF5Vep98mJNm7AmFbyoTzsfKnkTnBTSMfC5KiorzqfHbxzJJF9wtnEquRZXRKRTP5z
+Closed and gathered SOL from bundler wallets 3 : https://solscan.io/tx/4CZtApmxVv2JsEmmKMzSZbVdWZ3pQDJtaD2YsP1zuuMDXV8RgfcsjHb7fME6j8Z12Yt9pMXgGpWghBarPxvDLq8Z
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/5m7kPjZRgBUQHNfKbu41gAzvmaBZdvTMkj2A8iEVXwVxxy9Dndn7mSREBSVXvYy4RAeE1BCRn1kiVafTPFfaQkJz
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/3Avfz6PpWsdZo1gPSzeoBGRK1vkaEpyFxGPFkcDnSoKZdukgqmk9JS8aGHEVmkC1S4ptscDSQzdKxGMPLYQeE7Q7
+Gathering sol from bundler wallet completed!
+Gathering sol from bundler wallet completed!
+https://solscan.io/tx/VgXDzYt2bKCSjToeEPtyMHaPue3dbMqUuQ2jbcEEAS3XhcYKx4BLyWTN2rEP214m2Cvbnp4yD4FHyeGJ7Jbog84
+Success in distribution
+Lookup Table Address created successfully!
+Lookup Table Address:5cCGPxCSbx7zf3rdU24dPyc2MUAmk9fhEwX2ewxY62D3
+Successfully added wallet addresses.
+Successfully added base ata addresses.
+Successfully added Extending address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/5cCGPxCSbx7zf3rdU24dPyc2MUAmk9fhEwX2ewxY62D3/entries
+Dev wallet address: 72DQbth2DYYtATw9PwbRtvpq5D9DvxedD7u13zuFmHD8 
+
+0.0421082 Sol in Dev Wallet
+New Mint Address: https://solscan.io/account/9a5Tio2JH3KqsjPCfWdWvXfwjF81z4epiePne9Fo25xS
+Create token and Buy signature: https://solscan.io/tx/3aHdRRQUuSjKpuRRkJCnaYDAWK93VLNhkNgoYLHvtx2Feg4Ld4etX7B2weYWL8fQTFgKYwiWrAVKKifKW9JSvZRg
+Buy and Distribute signature: https://solscan.io/tx/68CH9nbvABMuPui8sFGkbZRUopibLWjNpQAgMSS7gbnjgYyvRCUtMkxUExwCvezg4r7NcMaASEc8UGX5vXZhygD
+Buy and Distribute signature: https://solscan.io/tx/R9VSxHjwuN7ca2zZkwvRVEuUdoLr9prEXdWQNWtrtdCfbN97irmTiSQdK6SQshaASzsd9yXooFz1Pq4EvwbFTRf
+Buy and Distribute signature: https://solscan.io/tx/3GqS5saFzrcTTUCL2TByQvg5cNNNaKGnunyCDsSLCqAbJR8y9zTPKoxL3dy4S8fNXZjhaTnRcZSGb48hoJ8GVXyj
+Buy and Distribute signature: https://solscan.io/tx/3mLg4zYvFjf4NELQv1B8ELTGH6BREpUxf2xVmYHx3KqmV4GP4DE2FG8BFr2i2M6Zp7e2tvp8zaRvm3LjYxcDcJUv
+Buy and Distribute signature: https://solscan.io/tx/9B6PoeXw5HArqQfL6uXeAY5hNdtzq7PvJC6TEQ4haUdWpCA2VtA3Q7RNvsbmShnPJWYHycA8ip21t1Fjopt2Dmp
+Buy and Distribute signature: https://solscan.io/tx/2geMSb9ePPvdJ9SrxndFRsGDqFNAfxHsdoFeAAvC83WXrjWEm6425knS2ewJctkcfHNMaCkCKrMYeHsHEPF1y1a9
+Buy and Distribute signature: https://solscan.io/tx/GvdM24D9SkXe9soqgReLvinQ8QNfgN5gVdkEggKJ9iGkdULuHJGYJbQATX5iFXVu5tuoVFQ34RwHWRYqxNSVH5N
+Buy and Distribute signature: https://solscan.io/tx/4fgtuvau7Y7TFjKHieG8A8Zm35wwzprtqyBV6PN3Q7Mc9voP62W9aTwXZN8AuER43xUEyrMZBXphX4XTHvTqPtkj
+Buy and Distribute signature: https://solscan.io/tx/3weVZqNwhMSBwng9FZTkZm2dmaPChXySaDxoy4JauDzQBfgL5b3fnNbBWZNVMrtrE9LChAe1P2LJAnce8rLbFWP9
+Buy and Distribute signature: https://solscan.io/tx/5P7pFNhiih5aNXLh9JCfxaoSqjPPYRb2LfsF5jf5TXLipgjWK5Pd8kFQNQUS8W4y6nUjBMFc1MVu4ob5N5uB3j1x
+Sell jito signature: https://explorer.jito.wtf/bundle/uvWs6V6K4JnAR58V19j6Q2QbboYFBPGcJVDDJHYu8TQEeaJusKYvt6EpFggL2vkNqJDwuXuudnE2TvbBRDv2mpt
+Wallet address & balance : 9WmDK5HufwHfaJF2akRk85HgnZqqWZL3yocyqk9dywVT, 0
+Wallet address & balance : FxmWcbFPG7gc8qAqa9WxaiTskUnJEAjUEDwtfX5JTj1D, 0
+Wallet address & balance : EsNoiPaeJs2B1KyrTWtbHmcssbaMg9dupCbASsXAZ2tZ, 0
+Wallet address & balance : 9hQuo6cvFZFF7j7WajVnbWwHh96fAKD51UAJicVpfq7d, 0
+Wallet address & balance : LsM4hJvRN2SLbEnPP6WBNAq7yRuNZBwDoCD4XQaTdMD, 0
+Wallet address & balance : HnxmkQt2PSpDfB5vXdqZTKeMzcLnAXW88YD4fuRqX7Y5, 0
+Wallet address & balance : 8tBaAFp4fQx7zWfubvU2gg1h1EjfXHGGzguEGZe9v9kk, 0
+Wallet address & balance : GKUxphy8WTfbophZ5at8Vf7vP7TKpQkNg6Da5hDvzh71, 0
+Wallet address & balance : 2e2CgSr5aHdUV4HYQH8v8yMztbnSqQemn96YRUPdCPbH, 0
+Wallet address & balance : CLfqYv7anUfWK94Hf4PPAqJnTLqHP5hAjJ9tCjUSQyYt, 0
+Closed and gathered SOL from bundler wallets 9 : https://solscan.io/tx/4aujZ7qz9NUXGoutSHHhAwVa28wZZyMDQsxMLTdDB1UsmnP55BcR69RvF8QnUrp7vq6JiWxGDdSePKepjPG8FbST
+Closed and gathered SOL from bundler wallets 5 : https://solscan.io/tx/2QYnDa6tH1fVtg1EuD6tQg9kAQ5QZwVkrTyFLeAzsmLxpPDLyRnunLfitjs2Ng8acx6i57WQ3VC1KJaWY9fMj1um
+Closed and gathered SOL from bundler wallets 2 : https://solscan.io/tx/4fEg8iPyp9h68nEVtY5oX1D5ve3daiEAPMr4c3yGP7PajcfRzCv6KuXGkb1tXqcuwHymZxCeZ8BFtHwfKt2Mq75g
+Closed and gathered SOL from bundler wallets 6 : https://solscan.io/tx/62iZzUqr7WXvA9X9z5zPdxfZL5knL1dLvCaW3pb3HTzdn2ewYi2AjFMFcyn4rtXW9tRPp9PNHL2dzNV6qMvBjrHp
+Closed and gathered SOL from bundler wallets 7 : https://solscan.io/tx/W3Muf6R2orz8hcjEsyKj6Vap3SeqyUkkGwrQLsXySv1C5TfkqGKaXiH4LSec3Y7J4UhxUF7rxLnUciHSzJVRXz5
+Closed and gathered SOL from bundler wallets 0 : https://solscan.io/tx/35xaVgEpTxxi14qnGLM5EuzFAj279QYikpFfrsPMYNGMcdeJc7V38RUCA1Uo5TFi4i2hW5Q5hzM7b2h3bAQfGJFU
+Closed and gathered SOL from bundler wallets 8 : https://solscan.io/tx/5ifSYEUT8LqYxoD4NsjWYkRA6mV3tTbFA6ZWGUe4pgqp9UT77LwBk2Dq79y8NpabDCoaJRECF8ayPFy3scx8d2Wi
+Closed and gathered SOL from bundler wallets 3 : https://solscan.io/tx/4HBbJtHSxQ1nShffbwkKF64mQuWmnTjwuV2C5SJwKW1YgmNU2B93WcBRLAMcyKmRS8Yok2f23DnfJtqgXVdd4UcH
+Closed and gathered SOL from bundler wallets 1 : https://solscan.io/tx/3F7aXGSbVmbHuqg2yRPQ5KnURsx7r8jAsH8KKqQn3RtpNEfdBq9wcpBsWsg3kP9PHp4oqGFrvLroAJSgVeNb2C4b
+Closed and gathered SOL from bundler wallets 4 : https://solscan.io/tx/2G8GiL9btFUzdug49NzsjpQqUTRp8sBadJCtK5gnH7WNhgF9SEHBNFSj1U8o3DkryxsB7ZGsBFmY9Ar91otvBdtr
+Gathering sol from bundler wallet completed!
